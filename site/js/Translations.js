@@ -716,7 +716,6 @@ layerOrderPanelTitleString["pl"] = "Kolejność warstw";
 layerOrderPanelTitleString["sv"] = "Lagerordning";
 
 //tooltip of layer settings button in layer order panel
-var layerOrderPanelLayerSettingsTooltipString = new Array();
 layerOrderPanelLayerSettingsTooltipString["en"] = "Settings";
 layerOrderPanelLayerSettingsTooltipString["es"] = "Settings"; //FIXME
 layerOrderPanelLayerSettingsTooltipString["de"] = "Einstellungen";
@@ -1374,7 +1373,7 @@ searchNoRecordsFoundString["hu"] = "Hiba a keresés alatt"; // FIXME
 searchNoRecordsFoundString["ro"] = "Nu am găsit niciun rezultat (căutarea e case-sensitive)";
 searchNoRecordsFoundString["ru"] = "Записи не найдены"; 
 searchNoRecordsFoundString["si"] = "ni rezultatov"; 
-searchNoRecordsFoundString["ru"] = "Geen resultaten gevonden";
+searchNoRecordsFoundString["nl"] = "Geen resultaten gevonden";
 searchNoRecordsFoundString["pl"] = "Nie znaleziono szukanych atrybutów"; 
 searchNoRecordsFoundString["sv"] = "Hittar inga poster"; 
 
